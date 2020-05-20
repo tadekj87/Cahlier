@@ -6,8 +6,6 @@
 
 using namespace std;
 
-extern int n;
-
 class Schrage
 {
 
