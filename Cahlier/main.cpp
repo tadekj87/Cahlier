@@ -17,7 +17,7 @@ int main()
 	carlier.Wczytaj();
 	carlier.Posortuj();
 
-	cout << "U: " << carlier.carlier_funkcja() << endl;
+	cout << "Wartosc funkcji celu U to: " << carlier.carlier_funkcja() << endl;
 	system("PAUSE");
 	return 0;
 }

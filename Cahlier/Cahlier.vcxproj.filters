@@ -36,4 +36,36 @@
       <Filter>Pliki źródłowe</Filter>
     </ClCompile>
   </ItemGroup>
+  <ItemGroup>
+    <None Include="..\..\..\..\Downloads\SCHRAGE3.DAT">
+      <Filter>Pliki źródłowe</Filter>
+    </None>
+    <None Include="..\..\..\..\Downloads\SCHRAGE2.DAT">
+      <Filter>Pliki źródłowe</Filter>
+    </None>
+    <None Include="..\..\..\..\Downloads\SCHRAGE1.DAT">
+      <Filter>Pliki źródłowe</Filter>
+    </None>
+    <None Include="..\..\..\..\Downloads\WT.DAT">
+      <Filter>Pliki źródłowe</Filter>
+    </None>
+    <None Include="..\..\..\..\Downloads\SCHRAGE9.DAT">
+      <Filter>Pliki źródłowe</Filter>
+    </None>
+    <None Include="..\..\..\..\Downloads\SCHRAGE8.DAT">
+      <Filter>Pliki źródłowe</Filter>
+    </None>
+    <None Include="..\..\..\..\Downloads\SCHRAGE7.DAT">
+      <Filter>Pliki źródłowe</Filter>
+    </None>
+    <None Include="..\..\..\..\Downloads\SCHRAGE6.DAT">
+      <Filter>Pliki źródłowe</Filter>
+    </None>
+    <None Include="..\..\..\..\Downloads\SCHRAGE5.DAT">
+      <Filter>Pliki źródłowe</Filter>
+    </None>
+    <None Include="..\..\..\..\Downloads\SCHRAGE4.DAT">
+      <Filter>Pliki źródłowe</Filter>
+    </None>
+  </ItemGroup>
 </Project>

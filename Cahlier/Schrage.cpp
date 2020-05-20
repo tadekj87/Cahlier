@@ -6,7 +6,7 @@ bool Schrage::Wczytaj()
 {
 	ifstream plik;
 
-	plik.open("SCHRAGE9.DAT", ios::in);
+	plik.open("SCHRAGE7.DAT", ios::in);
 
 	plik >> liczba_zadan;
 

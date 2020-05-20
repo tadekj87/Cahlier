@@ -156,6 +156,18 @@
     <ClInclude Include="Schrage.h" />
     <ClInclude Include="Zadanie.h" />
   </ItemGroup>
+  <ItemGroup>
+    <None Include="..\..\..\..\Downloads\SCHRAGE1.DAT" />
+    <None Include="..\..\..\..\Downloads\SCHRAGE2.DAT" />
+    <None Include="..\..\..\..\Downloads\SCHRAGE3.DAT" />
+    <None Include="..\..\..\..\Downloads\SCHRAGE4.DAT" />
+    <None Include="..\..\..\..\Downloads\SCHRAGE5.DAT" />
+    <None Include="..\..\..\..\Downloads\SCHRAGE6.DAT" />
+    <None Include="..\..\..\..\Downloads\SCHRAGE7.DAT" />
+    <None Include="..\..\..\..\Downloads\SCHRAGE8.DAT" />
+    <None Include="..\..\..\..\Downloads\SCHRAGE9.DAT" />
+    <None Include="..\..\..\..\Downloads\WT.DAT" />
+  </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
   </ImportGroup>
